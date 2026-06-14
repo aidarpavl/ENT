@@ -1,4 +1,4 @@
-import statistics as stats
+﻿import statistics as stats
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -156,7 +156,7 @@ texts = {
         "g_ach2_title": "Сравнение средних баллов по предметам среди отличников",
     },
     "kk": {
-        "title": "📊 ҰБТ нәтижелерін интерактивті талдау",
+        "title": "📊Жас Дарын. ҰБТ нәтижелерін интерактивті талдау",
         "sidebar_load": "📂 Мәліметтерді жүктеу",
         "error_read": "Файлды оқу мүмкін болмады. Қате: ",
         "sidebar_filters": "🎛️ Сүзгілер және Іздеу",
